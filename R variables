@@ -1,0 +1,6 @@
+# a numeric variable
+x <- 5
+# a charcter variable
+y <- "America"
+# a complex variable
+z <- 8+9i
